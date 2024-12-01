@@ -16,8 +16,8 @@ Project demonstrating obtaining a colored layer for an avalanche relief map usin
 
 ## Mapbox
 
-![2d](./img/2d.jpeg)  
-![3d](./img/3d.jpeg)  
+![2d](img/2d.jpg)  
+![3d](img/3d.jpg)  
 
 ## Links
 
