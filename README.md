@@ -6,7 +6,7 @@ Project demonstrating obtaining a colored layer for an avalanche relief map usin
 
 `make download` - download high resolution DEM model (1m).  
 `make slope` - calculate slopes with edges.  
-`make paint` - coloring thelayer.  
+`make paint` - coloring the layer.  
 
 ## Output
 
